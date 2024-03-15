@@ -26,7 +26,7 @@ const Navbar = () => {
       <header className="bg-black">
         <nav className="px-4 py-4 flex max-w-7xl mx-auto flex-row justify-between items-center text-center text-white">
           <h2 className="text-xl font-bold">
-            Design<span className="text-orange-600">DK</span>
+            Blog<span className="text-orange-600">Haven</span>
           </h2>
 
           {/* navItems for lg devices */}
